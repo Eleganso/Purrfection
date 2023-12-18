@@ -1,0 +1,26 @@
+body {
+  background-image: url('img/backgr.jpeg');
+  background-size: cover;
+}
+p {
+  color: red;
+  text-align: left;
+}
+h1 {
+  color: greenyellow;
+  text-align: center;
+}
+.text {
+  color: #f2ff00;
+}
+.rightText {
+  color: red;
+  text-align: right;
+}
+#poem {
+  color: white;
+}
+
+#chaos {
+  background-color: red;
+}
